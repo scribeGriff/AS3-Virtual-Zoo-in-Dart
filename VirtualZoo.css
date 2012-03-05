@@ -1,0 +1,50 @@
+h4 {
+  text-align:center;
+}
+#home {
+  background-color: #E1CF75;
+  font-family: Verdana, Geneva, sans-serif;
+}
+#page {
+  width: 1000px;
+  margin: 28px auto;
+  overflow:hidden;
+  background-color:rgba(255,255,255,0.7);
+}
+#output {
+  float: right;
+  width: 50%;
+  height:600px;
+  margin:10px;
+  padding:20px;
+  background-color:white;
+  overflow:auto;
+  border-top-right-radius:20px;
+  border-bottom-right-radius:20px;
+}
+#titleHeading {
+  margin:30px;
+  text-align:center;
+  border-bottom: 2px
+  inset Khaki;
+  overflow:hidden;
+  padding-bottom:10px;
+}
+#input1 {
+  width:30%; 
+  margin:30px 50px;
+  padding:0 20px 20px 20px;
+  border-bottom: 2px inset Khaki;
+}
+#input2 {
+  width:30%;
+  margin:30px 50px;
+  padding:0 20px;
+}
+#labelFast {
+  float: left;
+  padding-right: 50px;
+}
+#labelSlow {
+  float: right;
+}
